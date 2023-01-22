@@ -8,9 +8,11 @@ So when I was a student I took a lot business related programs/courses outside o
 
 Also leaded a Innovation and Entrepreneurship Club in my university as vice president.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHIH-LEI)](https://github.com/anuraghazra/github-readme-stats)
+
 🌱 Now I'm focus on tech skill grow.
 
-🌱 Current learning : <img src="https://user-images.githubusercontent.com/66233452/204716975-3fbf5ebb-fb3c-4e99-bb6e-625c9a2365f6.png" alt="Nestjs" width="50"/>
+🌱 Current learning :
 
 ### Languages and Tools:
 <div>
