@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-My major is Business Administration. Graduate from a well-know bootcamp [Alpha Camp](https://tw.alphacamp.co/) in 10/2020
+My major is Business Administration. Graduate from a well-know bootcamp [Alpha Camp](https://tw.alphacamp.co/) in 10/2021
 
-I love to learn, share and want to become a entrepreneur in the future.
+I have a passion for learning, sharing knowledge, and helping others grow into their best selves.
 
-So when I was a student I took a lot business related programs/courses outside of school.
+As a student, I took many business-related courses outside of my formal education. 
 
-Also leaded a Innovation and Entrepreneurship Club in my university as vice president.
+I also served as the Vice President of the Innovation and Entrepreneurship Club at my university,
+and held the position of Academic Director for the Design Thinking club at NTU. 
+
+These experiences stem from my passion for helping others succeed.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHIH-LEI)](https://github.com/anuraghazra/github-readme-stats)
 
